@@ -1,7 +1,0 @@
-{
-    "name": "tanzhen",
-    "version": 2,
-    "routes": [
-      {"src": "/share/server?auth=8fa092827bf843a6930f62a3fbf3d8f8&key=N2Y3YTZjZDk2ZjkyNGYyZGE3ZjQ3Yjk2YWRlZTRhNmN8enh3bDY2NkBxcS5jb218emFyZzU1MmJjbXpu","dest": "https://nodepanels.com/$1"}
-    ]
-  }
